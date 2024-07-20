@@ -24,12 +24,15 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
+  - :tv: [StanfordOnline: Computer Science 101](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101?index=product&objectID=course-05f61d04-5acc-452b-9c34-6d447af6437f&webview=false&campaign=Computer+Science+101&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-science)
 ### Cryptography
   - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto) [Coursera]
   - :book: [Crypto101](https://www.crypto101.io)
   - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
+  - :book: [Applied Cryptography: Protocols, Algorthms, and Source Code in C](https://mrajacse.wordpress.com/wp-content/uploads/2012/01/applied-cryptography-2nd-ed-b-schneier.pdf)
 ### Digital Forensics
   - [Computer Forensics subreddit wiki](https://www.reddit.com/r/computerforensics/wiki/faq#wiki_forensics.3A_where.2Fhow_do_i_begin.3F)
+  - :book: [Digital Forensics and Incident Response](http://cisweb.bristolcc.edu/~ik/Download/Forensic/Incident_Response_Computer_Forensics_3rd_Edition.pdf)
 ### General Resources
 #### Books
   - :book: *Godel, Escher, Bach* by Douglas Hofstadter
@@ -45,6 +48,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
   - :globe_with_meridians: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
+  - :tool: [APKTOOL](https://github.com/iBotPeaches/Apktool)
 #### IoT Security
   - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 #### Web Security
@@ -76,6 +80,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: *Learn Python the hard way* by Zed Shaw
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
   - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
+  - 
 #### Ruby
   - :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/courses/ruby-programming) - A step by step guide with a lot of projects.
 #### JavaScript
